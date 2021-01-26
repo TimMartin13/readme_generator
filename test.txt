@@ -1,0 +1,1 @@
+{"title":"Readme Generator","description":"It generates a readme","instructions":"install inquirer","usage":"type node index.js into the terminal window","license":"MIT License","contributions":"Nobody","tests":"at the terminal window","email":"timmartin13@gmail.com","github":"TimMartin13"}

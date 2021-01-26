@@ -1,0 +1,25 @@
+{
+  "name": "readme_generator",
+  "version": "1.0.0",
+  "description": "A program that will automatically generate a readme file based on user input to various prompts ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimMartin13/readme_generator.git"
+  },
+  "keywords": [
+    "Readme"
+  ],
+  "author": "Tim Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimMartin13/readme_generator/issues"
+  },
+  "homepage": "https://github.com/TimMartin13/readme_generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
