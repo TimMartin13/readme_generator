@@ -2,6 +2,11 @@
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  ## Description
+
+  A readme generator written in javascript, using Node.js, that generates a readme.md based on user input to various prompts.  The prompts are written using the npm inquirer package.
+
+  
   ## Table of Contents
   
   * [Installation](#installation)
@@ -11,30 +16,49 @@
   * [License](#license)
   * [Questions](#questions)
   
-  ## Description
-
-  A readme generator written in javascript, using Node, that generates a readme.md based on user input to prompts.
-
+  
+  
   ## Installation
 
-  Navigate to the folder that has index.js in your terminal window and type npm i to install inquirer.
+  Navigate to the folder that has index.js in your terminal window and type npm i to install the inquirer package.
 
+  ```
+  $ npm i
+  ```
+  This will install the version of the inquirer package that is needed for this program.
+
+
+  
   ## Usage
 
-  Navigate to the folder that has index.js and type node index.js, then answer the prompts.
+  Navigate to the folder that has index.js in your terminal window and type node index.js, then answer the prompts.
 
-  ## Contributions
+  ```
+  $ node index.js
+  ```  
+  This will run the program. Answer the following prompts about your project and when you are finished, the generator will generate a readme.md automatically.
 
-  Just me
+  ### Prompt example:
+  ![prompts example](./assets/images/prompts.jpg)
 
+  
+  
   ## Tests
 
+  ### Example .gif
   [![Readme Generator](./assets/images/readmeGenerator.gif)](https://drive.google.com/file/d/1jXiEXiVs3TptqMwrtpNIDQXYKlipxSia/view "Readme Generator")
   
+  ### Video Link
+
+  https://drive.google.com/file/d/1jXiEXiVs3TptqMwrtpNIDQXYKlipxSia/view
+
+
   ## License
 
 Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license 
 
+  
+  
   ## Questions
 
   Email: timmartin13@gmail.com
