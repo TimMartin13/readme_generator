@@ -1,9 +1,9 @@
-// Include packages needed for this application
+// Packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generate = require('./utils/generateMarkdown');
 
-// TODO: Create an array of questions for user input
+// An array of questions for user input
 const questions = [
     {
         type: 'input',
@@ -33,8 +33,7 @@ const questions = [
             "Apache License 2.0", 
             "GNU General Public License v3.0",
             "MIT License",
-            "BSD 2-Clause 'Simplified' License",
-            "Creative COmmons Zero v1.0 Universal",
+            "The Unlicense",
             "None"
         ]
     },

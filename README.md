@@ -1,8 +1,9 @@
-# Readme Generator
+# ReadMe Generator
   
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   ## Table of Contents
   
-  * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributions](#contributions)
@@ -12,32 +13,31 @@
   
   ## Description
 
-  A readme generator
+  A readme generator written in javascript, using Node, that generates a readme.md based on user input to prompts.
 
   ## Installation
 
-  Open your terminal window. Navigate to the folder that has the index.js file in it. Type npm i to install inquirer
+  Navigate to the folder that has index.js in your terminal window and type npm i to install inquirer.
 
   ## Usage
 
-  Open your terminal window. Navigate to the folder that has the index.js in it. Type node index.js to run
+  Navigate to the folder that has index.js and type node index.js, then answer the prompts.
 
   ## Contributions
 
-  Nobody
+  Just me
 
   ## Tests
 
-  Manually
-
+  [![Readme Generator](./assets/images/readmeGenerator.gif)](https://drive.google.com/file/d/1jXiEXiVs3TptqMwrtpNIDQXYKlipxSia/view "Readme Generator")
+  
   ## License
 
-  MIT License
+Licensed under the [MIT](https://choosealicense.com/licenses/mit/) license 
 
   ## Questions
 
   Email: timmartin13@gmail.com
 
   Github: github.com/TimMartin13
-
 
